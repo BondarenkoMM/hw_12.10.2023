@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class extraTask {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
+        System.out.println("Hello world!");
         System.out.println("Enter the number of the week day: ");
         int weekDayNum = scn.nextInt();
         String result = (
